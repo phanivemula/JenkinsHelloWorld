@@ -5,6 +5,6 @@ class HelloWorld
     {
         //The below line prinbts a greeting on the console
         System.out.println("Hello! I'm a Try QA program");
-        System.out.println("Hello! Phaani");
+        System.out.println("Hello! Phuaani");
     }
 }
